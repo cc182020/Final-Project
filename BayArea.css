@@ -1,0 +1,30 @@
+body {
+  background-color: #D3BDB0;
+}
+
+h1 {
+  font-family: 'Bangers', cursive;
+  text-align: center;
+}
+
+h5 {
+  font-family: 'Literata', serif;
+  font-size: 24px
+  text-align: center;
+}
+
+/* .carousel-inner > .item > img{
+  width:640px;
+  height: 360px;
+} */
+
+/* On smaller screens, decrease text size */
+/* @media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+} */
+
+/* .navbar {
+  overflow: hidden;
+  background-color: #D3BDB0;
+  font-family: Arial;
+} */
