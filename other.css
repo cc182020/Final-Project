@@ -18,6 +18,11 @@ h3 {
   font-size: 16px;
 }
 
+h4 {
+  font-family: 'Literata';
+  color: black;
+  font-size: 15px;
+}
 img {
   display: block;
   margin-left: auto;

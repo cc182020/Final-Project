@@ -7,14 +7,30 @@ h1 {
 }
 
 h2 {
-  text-align: left;
+  text-align: center;
   font-family: 'Literata';
   color: black;
 }
 
 h3 {
-  text-align: left;
+  text-align: center;
   font-family: 'Literata';
   color: black;
   font-size: 16px;
+}
+
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
