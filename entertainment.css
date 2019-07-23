@@ -1,4 +1,4 @@
-body {
+/* body {
   background-color: #D3BDB0;
 }
 h1 {
@@ -17,4 +17,55 @@ h3 {
   font-family: 'Literata';
   color: black;
   font-size: 16px;
+} */
+
+body {
+ background-color: #D3E3E5;
+
+}
+
+/* #carouselExampleControls {
+  margin: 0;
+  width: 100%;
+} */
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  color: #424B54;
+}
+
+h5 {
+ font-family: 'Literata', serif;
+ font-size: 24px
+ text-align: center;
+ color: #424B54;
+}
+
+h2 {
+  font-family: 'Alice', serif;
+  text-align: left;
+  color: #424B54;
+}
+.carousel {
+ width:640px;
+ height:400px;
+ margin: 0 auto;
+}
+
+h3 {
+ text-align: left;
+ font-family: 'Literata';
+ color: #424B54;
+ font-size: 16px;
+}
+
+.addBorder {
+  border: 5px solid #93A8AC;
+}
+
+h4 {
+  font-family: 'Allan', cursive;
+  text-align: left;
+  color: #424B54;
 }
