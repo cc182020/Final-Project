@@ -3,8 +3,15 @@ body {
 }
 
 h1 {
-  font-family: 'Bangers', cursive;
+  font-family: 'Dancing Script', cursive;
   text-align: center;
+  color: #424B54;
+}
+
+h2 {
+  font-family: 'Alice', serif;
+  text-align: left;
+  color: #424B54;
 }
 
 h5 {
@@ -15,13 +22,26 @@ h5 {
 }
 
 h3 {
-  font-family: 'Courgette', cursive;
+ text-align: left;
+ font-family: 'Literata';
+ color: #424B54;
+ font-size: 16px;
+}
+
+h4 {
+  font-family: 'Allan', cursive;
+  text-align: left;
+  color: #424B54;
 }
 
 .carousel {
   width:640px;
   height:400px;
   margin: 0 auto;
+}
+
+.addBorder {
+  border: 5px solid #93A8AC;
 }
 
 /* .carousel-inner > .item > img{
