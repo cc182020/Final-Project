@@ -1,50 +1,33 @@
 body {
-  background-color: #D3E3E5;
+  background-color: #D3BDB0;
 }
 
-
 h1 {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Bangers', cursive;
   text-align: center;
-  color: #424B54;
 }
 
 h2 {
-  font-family: 'Alice', serif;
   text-align: center;
-  color: #424B54;
-}
-
-h5 {
-  font-family: 'Literata', serif;
-  font-size: 24px
-  text-align: center;
-  margin-left:15px;
-  margin-right:15px;
-  color: #424B54;
+  font-family: 'Literata';
+  color: black;
 }
 
 h3 {
- text-align: center;
- font-family: 'Literata';
- color: #424B54;
- font-size: 16px;
+  text-align: center;
+  font-family: 'Literata';
+  color: black;
+  font-size: 16px;
 }
 
-h4 {
-  font-family: 'Allan', cursive;
-  text-align: left;
-  color: #424B54;
-}
-
-.carousel {
-  width:640px;
-  height:400px;
-  margin: 0 auto;
-}
-
-.addBorder {
-  border: 5px solid #93A8AC;
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
 }
 
 img {

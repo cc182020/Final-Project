@@ -50,6 +50,15 @@ h4 {
   text-align: left;
   color: #424B54;
 }
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
 
 img {
   display: block;
