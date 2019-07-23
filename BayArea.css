@@ -2,6 +2,7 @@ body {
   background-color: #D3E3E5;
 }
 
+
 h1 {
   font-family: 'Dancing Script', cursive;
   text-align: center;
@@ -43,19 +44,3 @@ h4 {
 .addBorder {
   border: 5px solid #93A8AC;
 }
-
-/* .carousel-inner > .item > img{
-  width:640px;
-  height: 360px;
-} */
-
-/* On smaller screens, decrease text size */
-/* @media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
-} */
-
-/* .navbar {
-  overflow: hidden;
-  background-color: #D3BDB0;
-  font-family: Arial;
-} */
