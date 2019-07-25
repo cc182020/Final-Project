@@ -2,18 +2,11 @@ body {
  background-color: #D3E3E5;
 
 }
-
-/* #carouselExampleControls {
-  margin: 0;
-  width: 100%;
-} */
-
 h1 {
   font-family: 'Dancing Script', cursive;
   text-align: center;
   color: #424B54;
 }
-
 h5 {
  font-family: 'Literata', serif;
  font-size: 24px
@@ -40,26 +33,10 @@ h3 {
  color: #424B54;
  font-size: 16px;
 }
-
-.addBorder {
-  border: 5px solid #93A8AC;
-}
-
 h4 {
   font-family: 'Allan', cursive;
   text-align: left;
   color: #424B54;
-}
-.thumbnail:hover {
-    position:relative;
-    top:-25px;
-    left:-35px;
-    width:500px;
-    height:auto;
-    display:block;
-    z-index:999;
-}
-
 img {
   display: block;
   margin-left: auto;
