@@ -1,46 +1,38 @@
 body {
   background-color: #D3E3E5;
 }
-
-
 h1 {
   font-family: 'Dancing Script', cursive;
   text-align: center;
   color: #424B54;
 }
-
 h2 {
   font-family: 'Alice', serif;
   text-align: left;
   color: #424B54;
 }
-
 h5 {
   font-family: 'Literata', serif;
   font-size: 24px
   text-align: center;
   color: white;
 }
-
 h3 {
  text-align: left;
  font-family: 'Literata';
  color: #424B54;
  font-size: 16px;
 }
-
 h4 {
   font-family: 'Allan', cursive;
   text-align: left;
   color: #424B54;
 }
-
 .carousel {
   width:640px;
   height:400px;
   margin: 0 auto;
 }
-
 .addBorder {
   border: 5px solid #93A8AC;
 }
